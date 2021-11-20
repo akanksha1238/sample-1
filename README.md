@@ -10,7 +10,7 @@
 
 
 
-* students
+* senior vs junior
   * surya
   * vasavi
 
